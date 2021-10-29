@@ -1,0 +1,223 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* startPage.html */
+
+.startPageBody {
+  background-color: rgb(49, 156, 156);
+}
+
+.startPageHeader {
+  width: 100%;
+  background-color: rgb(73, 115, 115);
+}
+
+.startPageAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.startPageMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+  color: aliceblue;
+}
+
+.startPageFooter {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+  color: aliceblue;
+}
+
+/* aboutUs.html */
+
+.aboutUsBody {
+  background-color: rgb(49, 156, 156);
+}
+
+.aboutUsHeader {
+  width: 100%;
+  background-color: rgb(73, 115, 115);
+}
+
+.aboutUsAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.aboutUsMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+  color: aliceblue;
+}
+
+.aboutUsFooter {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+  color: aliceblue;
+}
+
+/* theChoice.html */
+
+.theChoiceBody {
+  background-color: black;
+}
+
+.theChoicePageHeader {
+  width: 100%;
+  background-color: rgb(35, 39, 42);
+}
+
+.theChoiceAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.theChoiceMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+}
+
+.theChoiceFooter {
+  width: 100%;
+  background-color: black;
+}
+
+/* register.html */
+
+.registerBody {
+  background-color: black;
+}
+
+.registerHeader {
+  width: 100%;
+  background-color: rgb(54, 59, 78);
+}
+
+.registerAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.registerMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+}
+
+.registerFooter {
+  width: 100%;
+  background-color: black;
+}
+
+/* logIn.html */
+
+.logInBody {
+  background-color: black;
+}
+
+.logInHeader {
+  width: 100%;
+  background-color: rgb(54, 59, 78);
+}
+
+.logInAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.logInMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+}
+
+.logInFooter {
+  width: 100%;
+  background-color: black;
+}
+
+/* siamangApe.html*/
+
+.siamangApeBody {
+  background-color: black;
+}
+
+.siamangApeHeader {
+  width: 100%;
+  background-color: rgb(35, 39, 42);
+}
+
+.siamangApeAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.siamangApeMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+}
+
+.siamangApeFooter {
+  width: 100%;
+  background-color: black;
+}
+
+/* howlerMonkey.html */
+
+.howlerMonkeyBody {
+  background-color: black;
+}
+
+.howlerMonkeyHeader {
+  width: 100%;
+  background-color: rgb(35, 39, 42);
+}
+
+.howlerMonkeyAside {
+  background-color: rgb(80, 32, 32);
+  min-width: 30%;
+  max-width: 35%;
+  min-height: 80%;
+}
+
+.howlerMonkeyMain {
+  background-color: rgb(29, 28, 28);
+  min-width: 70%;
+  /* max-width: 70%; */
+  min-height: 80%;
+}
+
+.howlerMonkeyFooter {
+  width: 100%;
+  background-color: black;
+}
