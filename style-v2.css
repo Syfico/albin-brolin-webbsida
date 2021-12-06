@@ -155,6 +155,10 @@ noMarginTop {
   height: 500px;
 }
 
+.h-800 {
+  height: 800px;
+}
+
 .bigText {
   font-size: 30px;
 }
