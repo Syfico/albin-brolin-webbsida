@@ -37,6 +37,11 @@ body {
   grid-template-columns: 2fr 4fr 2fr;
 }
 
+.registerGridMain {
+  display: grid;
+  grid-template-columns: 3fr 4fr 3fr;
+}
+
 main {
   /* background-color: teal; */
   display: grid;
@@ -104,6 +109,20 @@ nav a:hover {
   /* border: 100px solid #333847; */
 }
 
+.theChoice-box-small-border-colour {
+  border-top: 50px solid #333847;
+  border-bottom: 50px solid #333847;
+  border-left: 75px solid #333847;
+  border-right: 75px solid #333847;
+}
+
+.theChoice-box-small-border-colour {
+  border-top: 50px solid #333847;
+  border-bottom: 50px solid #333847;
+  border-left: 75px solid #333847;
+  border-right: 75px solid #333847;
+}
+
 /* .noPaddingBottom {
   padding-bottom: 0;
 }
@@ -147,6 +166,14 @@ noMarginTop {
   height: 100px;
 }
 
+.h-175 {
+  height: 175px;
+}
+
+.h-190 {
+  height: 190px;
+}
+
 .h-300 {
   height: 300px;
 }
@@ -155,8 +182,8 @@ noMarginTop {
   height: 500px;
 }
 
-.h-800 {
-  height: 800px;
+.h-700 {
+  height: 700px;
 }
 
 .bigText {
