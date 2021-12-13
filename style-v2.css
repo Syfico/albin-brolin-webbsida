@@ -93,6 +93,11 @@ nav a:hover {
   padding: 10px;
 }
 
+.border-radius-2px {
+  border-radius: 2px;
+  border-style: none;
+}
+
 .startPage-box-border-colour {
   border: 15px solid #cdb372;
 }
@@ -110,18 +115,20 @@ nav a:hover {
 }
 
 .theChoice-box-small-border-colour {
-  border-top: 50px solid #333847;
-  border-bottom: 50px solid #333847;
-  border-left: 75px solid #333847;
-  border-right: 75px solid #333847;
+  border-top: 40px solid #333847;
+  border-bottom: 40px solid #333847;
+  border-left: 45px solid #333847;
+  border-right: 45px solid #333847;
+  border-radius: 0px;
 }
 
-.theChoice-box-small-border-colour {
+/* .theChoice-box-small-border-colour {
   border-top: 50px solid #333847;
   border-bottom: 50px solid #333847;
   border-left: 75px solid #333847;
   border-right: 75px solid #333847;
-}
+  border-radius: 0px;
+} */
 
 /* .noPaddingBottom {
   padding-bottom: 0;
@@ -140,6 +147,7 @@ noMarginTop {
 
 .theChoice-box-background-colour {
   background-color: #364261;
+  /* border-style: none; */
 }
 
 .box-w {
@@ -275,6 +283,10 @@ noMarginTop {
 .padding-L-R-50 {
   padding-left: 50px;
   padding-right: 50px;
+}
+
+.margin-L-50 {
+  margin-left: 50px;
 }
 
 .padding-T-B-20 {
