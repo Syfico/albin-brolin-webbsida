@@ -46,6 +46,11 @@ body {
   grid-template-columns: 3fr 4fr 3fr;
 }
 
+.apeGridMain {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
 main {
   /* background-color: teal; */
   display: grid;
@@ -104,9 +109,18 @@ div a:hover {
 .box {
   /* background-color: #f17048; */
   /* border: 15px solid #cdb372; */
-  border-radius: 10px;
   margin: 10px;
   padding: 10px;
+}
+
+.border-radius-10px {
+  border-radius: 10px;
+}
+
+input {
+  background-color: #2f3a55;
+  color: rgb(168, 179, 197);
+  padding: 5px;
 }
 
 .border-radius-2px {
@@ -120,6 +134,10 @@ div a:hover {
 
 .startPage-box-background-colour {
   background-color: #f17048;
+}
+
+.ape-background-colour {
+  background-color: #1f2227;
 }
 
 .theChoice-box-border-colour {
@@ -293,6 +311,11 @@ noMarginTop {
 .padding-L-R-20 {
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.padding-L-R-25 {
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .padding-L-R-30 {
