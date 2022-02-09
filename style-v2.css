@@ -68,6 +68,18 @@ main {
   background-color: #2c2f33;
 }
 
+.menuText {
+  color: white;
+  font-size: auto;
+  text-decoration: none;
+  transition-duration: 0.3s;
+}
+
+.menuText:hover {
+  /* background-color: #3c9999; */
+  font-size: 18px;
+}
+
 nav {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -78,16 +90,18 @@ nav {
 
 nav a {
   color: white;
+  font-size: auto;
   text-decoration: none;
+  transition-duration: 0.3s;
+}
+
+nav a:hover {
+  /* background-color: #3c9999; */
 }
 
 div a {
   color: white;
   text-decoration: none;
-}
-
-nav a:hover {
-  background-color: #3c9999;
 }
 
 div a:hover {
@@ -266,6 +280,8 @@ noMarginTop {
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #cdb372;
+  color: black;
+  transition-duration: 0.2s;
   width: 32px;
   height: 32px;
   border-radius: 35%;
@@ -273,6 +289,11 @@ noMarginTop {
   justify-content: center;
   align-items: center;
   font-weight: bolder;
+}
+
+.close-btn:hover {
+  color: #e76037;
+  cursor: pointer;
 }
 
 .flex {

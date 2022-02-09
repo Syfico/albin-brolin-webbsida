@@ -4,15 +4,9 @@
   box-sizing: border-box;
 }
 
-/* startPage.html */
-
 .startPageBody {
   background-color: rgb(49, 156, 156);
 }
-
-/*startPageBigContainerLeft {
-  height: 100%;
-}*/
 
 .startPageHeader {
   width: 100%;
@@ -61,8 +55,6 @@
   color: aliceblue;
 }
 
-/* aboutUs.html */
-
 .aboutUsBody {
   background-color: rgb(49, 156, 156);
 }
@@ -95,8 +87,6 @@
   color: aliceblue;
 }
 
-/* theChoice.html */
-
 .theChoiceBody {
   background-color: black;
 }
@@ -124,8 +114,6 @@
   width: 100%;
   background-color: black;
 }
-
-/* register.html */
 
 .registerBody {
   background-color: black;
@@ -155,8 +143,6 @@
   background-color: black;
 }
 
-/* logIn.html */
-
 .logInBody {
   background-color: black;
 }
@@ -185,8 +171,6 @@
   background-color: black;
 }
 
-/* siamangApe.html*/
-
 .siamangApeBody {
   background-color: black;
 }
@@ -214,8 +198,6 @@
   width: 100%;
   background-color: black;
 }
-
-/* howlerMonkey.html */
 
 .howlerMonkeyBody {
   background-color: black;
