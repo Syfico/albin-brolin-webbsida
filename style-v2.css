@@ -345,3 +345,60 @@ noMarginTop {
 .margin-T-20 {
   margin-top: 20px;
 }
+
+/* .imBox {
+  height: auto;
+  width: auto;
+  border-width: 20px;
+  border-color: #e76037;
+  outline-color: aqua;
+} */
+
+.orangeBox {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.orangeBox-black {
+  /* border: 10px solid black; */
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+  /* width: 1550px; */
+  /* width: 100%; */
+  width: auto;
+  /* height: 907px; */
+  height: 100%;
+  min-width: 50%;
+  /* justify-content: center; */
+  /* align-content: center; */
+}
+
+.SiamangImgSize {
+  /* width: 25%;
+  height: 100%; */
+  border-radius: 12px;
+  padding: 25px;
+  width: 367px;
+  height: 429px;
+  justify-content: space-evenly;
+  /* flex-wrap: wrap;s */
+}
+
+.HowlerImgSize {
+  /* width: 25%;
+  height: 100%; */
+  border-radius: 12px;
+  padding: 25px;
+  width: 365px;
+  height: 431px;
+  justify-content: space-evenly;
+  /* flex-wrap: wrap; */
+}
+
+/* .responsive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(max-content, 1fr));
+} */
