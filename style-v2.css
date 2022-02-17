@@ -129,7 +129,8 @@ input {
 }
 
 .startPage-box-border-colour {
-  border: 15px solid #cdb3729d;
+  border: 15px solid #cdb372;
+  /* border: 15px solid #cdb372; */
 }
 
 .startPage-box-background-colour {
@@ -166,7 +167,7 @@ input {
 }
 
 .box-w-border-colour {
-  border: 15px solid #cdb372;
+  border: 15px solid #cdb3729d;
 }
 
 .box-w-background-colour {
